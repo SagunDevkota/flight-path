@@ -1,0 +1,17 @@
+.span-people-counter{
+  width: 30px;
+  height: 30px;
+  padding-top: 6px;
+}
+
+.input-field-selector>*{
+ margin: 0.5rem;
+}
+
+.dropdown-menu {
+  min-width: 250px !important;
+}
+
+.dropdown-menu>li{
+  padding: 5px;
+}
